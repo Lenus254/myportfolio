@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: magenta;
+}
+body{
+    background-image: url(./images/backgroung1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: inherit;
+    opacity: 80%;
+}
