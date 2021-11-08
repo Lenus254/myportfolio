@@ -3,7 +3,7 @@ h1{
     color: magenta;
 }
 body{
-    background-image: url(./images/backgroung1.png);
+    background-image: url(./images/bg2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -23,8 +23,8 @@ nav>ul li{
     padding-right: 100px;
 }
 ul li a{
-    color: white;
-    font-size: 18px;
+    color:white;
+    font-size: 25px;
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 200px;
@@ -44,13 +44,14 @@ ul li a{
     margin-left: 500px;
     margin-top: 100px;
     background-color: rgb(163, 176, 194);
-    opacity: 40%;
+    
 }
 #pic{
     height: 220px;
-    width: 220px;
+    width: 250px;
     float: left;
-    margin-left: 35px;
+    margin-left: 45px;
+    
 }
 #des{
     font-size: larger;
@@ -59,15 +60,16 @@ ul li a{
     font-weight: bold;
     }
     .profile>h2{
-        color: white;
+        color: magenta;
         text-align: center;
-        font-size: larger;
+        font-size: x-large;
     }
     .languages>ul,ol,li{
         list-style: none;
         
     }
-   strong{color: white;
+   strong{color: magenta;
+    font-size: x-large;
 }
 em{
     color: rgb(0, 183, 255);
@@ -90,7 +92,7 @@ footer p, a{
     text-decoration: none;
 }
 #header{
-    color: white;
+    color: magenta;
 }
 #color{
     color: black;
