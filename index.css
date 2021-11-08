@@ -30,3 +30,31 @@ ul li a{
     font-weight: 200px;
     line-height: normal;
 }
+.profile>p,ul{
+    text-align: center;
+    color: black;
+    font-size: larger;
+    align-items: center;
+
+}
+.image{
+    border-radius: 80%;
+    height: 300px;
+    width: 800px;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: rgb(163, 176, 194);
+    opacity: 40%;
+}
+#pic{
+    height: 220px;
+    width: 220px;
+    float: left;
+    margin-left: 35px;
+}
+#des{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    font-weight: bold;
+    }
