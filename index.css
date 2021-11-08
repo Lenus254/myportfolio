@@ -12,7 +12,7 @@ body{
 }
 nav{
     background-color: rgba(17, 20, 24, 0.9);
-    margin: 5px -8px 0px -8px;
+    margin: 5px -8px 0px -7px;
     text-align: left;
     padding: 25px;
     display: flex;
@@ -78,7 +78,7 @@ footer{
     background-color: #131414;
     color: whitesmoke;
     margin-top: 50px;
-    margin: 50px -8px -8px -8px;
+    margin: 50px -8px -8px -7px;
     padding: 5px 50px 5px 50px;
 }
 .contact p{
