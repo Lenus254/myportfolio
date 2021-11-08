@@ -58,3 +58,17 @@ ul li a{
     padding-top: 100px;
     font-weight: bold;
     }
+    .profile>h2{
+        color: white;
+        text-align: center;
+        font-size: larger;
+    }
+    .languages>ul,ol,li{
+        list-style: none;
+        
+    }
+   strong{color: white;
+}
+em{
+    color: rgb(0, 183, 255);
+}
