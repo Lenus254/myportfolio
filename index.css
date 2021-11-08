@@ -72,3 +72,20 @@ ul li a{
 em{
     color: rgb(0, 183, 255);
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #131414;
+    color: whitesmoke;
+    margin-top: 50px;
+    margin: 50px -8px -8px -8px;
+    padding: 5px 50px 5px 50px;
+}
+.contact p{
+    font-size: 17px;
+}
+footer p, a{
+    color:whitesmoke;
+    font-size: 17px;
+    text-decoration: none;
+}
